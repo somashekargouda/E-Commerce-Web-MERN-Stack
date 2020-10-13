@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "5f85fa2bd5117431c0c638ba"
+  },
+  "role": "1",
+  "purchases": [],
+  "name": "soma",
+  "email": "s@gmail.com",
+  "salt": "e1180a80-0d86-11eb-98bf-a5990dba792e",
+  "encry_password": "0fff9955695a5f6c072894e78af82a792cd96226d5c4b17088e7da5c740a7a5f",
+  "createdAt": {
+    "$date": "2020-10-13T19:04:11.834Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T19:04:11.834Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85fe33d5117431c0c638c2"
+  },
+  "role": 1,
+  "purchases": [],
+  "name": "suri",
+  "email": "suri@gmail.com",
+  "salt": "48209e70-0d89-11eb-98bf-a5990dba792e",
+  "encry_password": "fb647d7be60692636eb341b1c142e9d94bf5093b87175aeea07098a94bf88814",
+  "createdAt": {
+    "$date": "2020-10-13T19:21:23.675Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T19:21:23.675Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f85fea1d5117431c0c638c3"
+  },
+  "role": 1,
+  "purchases": [],
+  "name": "Anusha",
+  "email": "anusha@gmail.com",
+  "salt": "89e2e0c0-0d89-11eb-98bf-a5990dba792e",
+  "encry_password": "ed420aea057cd86606a08f2e5ba6e1d00032c02d7512bb6bcf2b7864204f64d5",
+  "createdAt": {
+    "$date": "2020-10-13T19:23:14.001Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-13T19:23:14.001Z"
+  },
+  "__v": 0
+}]
